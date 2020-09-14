@@ -2,7 +2,7 @@
 //  Skimp.swift
 //  Skimp
 //
-//  Created by Alan Kumar on 15/03/2020.
+//  Created by Anan K. Mallik on 15/03/2020.
 //  Copyright © 2020 Skimp Co. All rights reserved.
 //
 
